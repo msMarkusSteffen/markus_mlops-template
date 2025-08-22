@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/msteffen/Documents/Coding/mlflow/mlruns/0/1ee68f2ba46e4df48d825a42847fae63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ee68f2ba46e4df48d825a42847fae63
+run_name: judicious-snipe-427
+run_uuid: 1ee68f2ba46e4df48d825a42847fae63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755855919822
+status: 1
+tags: []
+user_id: msteffen

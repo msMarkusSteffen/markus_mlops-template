@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/msteffen/Documents/Coding/mlflow/mlruns/0/af672870b1b343aeaeb1f29d8a957a14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af672870b1b343aeaeb1f29d8a957a14
+run_name: able-carp-500
+run_uuid: af672870b1b343aeaeb1f29d8a957a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755855648846
+status: 1
+tags: []
+user_id: msteffen

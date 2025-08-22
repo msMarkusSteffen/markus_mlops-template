@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/msteffen/Documents/Coding/mlflow/mlruns/0/6ea67e5c9cfb4946a1f6285cab30cd58/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ea67e5c9cfb4946a1f6285cab30cd58
+run_name: honorable-stag-516
+run_uuid: 6ea67e5c9cfb4946a1f6285cab30cd58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755855630202
+status: 1
+tags: []
+user_id: msteffen

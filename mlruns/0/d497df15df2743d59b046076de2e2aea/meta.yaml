@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/msteffen/Documents/Coding/mlflow/mlruns/0/d497df15df2743d59b046076de2e2aea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d497df15df2743d59b046076de2e2aea
+run_name: kindly-sloth-180
+run_uuid: d497df15df2743d59b046076de2e2aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755855403814
+status: 1
+tags: []
+user_id: msteffen
