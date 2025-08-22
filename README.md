@@ -1,7 +1,7 @@
 # ML-Ops Iris Flower Template
 
 ## Objectives
-The goal of this project is to provide a **simple ML-Ops template** based on the Iris Flower dataset. It demonstrates an end-to-end workflow for **training, versioning, and serving machine learning models**, allowing easy experimentation and reuse.
+The goal of this project is to provide a **simple ML-Ops template** based on the Iris Flower dataset and for me to learn. It demonstrates an end-to-end workflow for **training, versioning, and serving machine learning models**, allowing easy experimentation and reuse.
 
 ## Architecture & Setup
 This project is structured with Docker and consists of multiple services:
